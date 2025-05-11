@@ -37,12 +37,6 @@ git clone https://github.com/ML-Lab-Summer-25/Luckylinux-journal.git
 cd Luckylinux-journal
 pip install -r requirements.txt
 ```
---
-
-## 📮 Contributions
-
-This is a personal journal, but feel free to peek, fork, or give feedback!
-
 ---
 
 ## 🧑‍💻 Journal Owner
@@ -51,6 +45,12 @@ This is a personal journal, but feel free to peek, fork, or give feedback!
 B.Tech, NITK Surathkal  
 Computational & Data Science  
 Enthusiastic about ML, Physics, and Programming
+
+---
+
+## 📮 Contributions
+
+This is a personal journal, but feel free to peek, fork, or give feedback!
 
 ---
 
