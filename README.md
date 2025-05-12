@@ -8,9 +8,12 @@ Welcome to my personal machine learning journal — a structured collection of n
 
 The repo is organized by weekly progress:
 
-week1/
-└── model_representation.ipynb
-week2/
+C1-<Course-1-Name>/
+└── Week-1/
+    └── Lab-1-<Lab-Name>.ipynb
+└── Week-2/
+    └── Lab-2-<Lab-Name>.ipynb
+C2-<Course-2-Name>/
 └── ...
 
 
