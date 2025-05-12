@@ -1,4 +1,4 @@
-# 📘 LuckyLinux ML Journal
+# LuckyLinux ML Journal
 
 Welcome to my personal machine learning journal — a structured collection of notebooks, experiments, and insights as I learn and build with ML.
 
